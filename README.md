@@ -29,7 +29,7 @@ Esse projeto fornece um serviço web para gerar postagens automáticas de Linked
 
 ## Configuração
 
-1. Crie um arquivo `.env` na raiz do projeto com o conteúdo:
+1. Crie um arquivo `.env` na raiz do projeto com o conteúdo do api key
 2. Certifique-se de que a porta 8000 esteja liberada no firewall (AWS Lightsail ou localmente).
 
 ## Execução Local
