@@ -38,3 +38,4 @@ Para rodar em modo de desenvolvimento:
 Abra no navegador: [http://localhost:8000/](http://localhost:8000/)
 
 Teste disponivel em: http://aluralinkedinposts.icu
+![{8BB1B37B-E193-4BB4-9D7E-5927E69D38CA}](https://github.com/user-attachments/assets/115c4ca1-7c83-4ffe-8348-3095d8105506)
